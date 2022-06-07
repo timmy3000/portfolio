@@ -62,10 +62,6 @@ nav ul li:hover {
     transform: scale(1.2);
 }
 
-#logo {
-    align-self: flex-start;
-}
-
 main {
     flex: 1;
     display: flex;

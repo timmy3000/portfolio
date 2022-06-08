@@ -198,6 +198,7 @@ article span p, article span p strong {
     display: flex;
     align-items: center;
     margin-bottom: 30px;
+    background-color: #fff;
     border: 1px solid #d1d1d1;
     border-radius: 4px;
     padding: 20px 30px;

@@ -36,6 +36,9 @@ body::-webkit-scrollbar-thumb:hover {
     background: #000;
 }
 
+#pattern {
+    position: fixed;
+}
 
 nav ul {
     list-style-type: none;
